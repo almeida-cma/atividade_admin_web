@@ -19,3 +19,5 @@ Você vai criar uma página de publicidade para divulgar um clínica que oferece
 5) Reduzir o tempo para o surgimento do banner;
 6) Elaborar a página de publicidade conforme informado no início incorporando um formulário do Google para captar as pessoas interessadas.
 7) Enviar o trabalho para um repositório denominado "atividade_final_frontend".
+8) Publicar página no githup pages e acrescentar no Read.me do seu repositório o link direto para sua página.
+9) Preencher formulário disponibilizado pelo professor.
