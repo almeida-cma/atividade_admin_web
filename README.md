@@ -5,7 +5,7 @@ Você vai criar uma página de publicidade para divulgar um clínica que oferece
 1) Alterar documento HTML para língua portuguesa;
 2) Cálculo: imc = peso / (altura * altura);
 3) Lógica aplicada ao IMC: <br>
- se (imc < 18.5) { 
+ se (imc < 18.5) { <br>
             mensagem = 'Abaixo do peso'; <br>
         } senão se (imc < 25) { <br>
             mensagem = 'Peso adequado'; <br>
