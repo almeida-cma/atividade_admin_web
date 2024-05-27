@@ -1,6 +1,6 @@
 # atividade_admin_web
 
-Você vai criar uma página de publicidade para divulgar um clínica que oferece consultoria em hábitos para melhorar o IMC (Índice de Massa Corporal). Algumas alterações serão necessárias:
+Você vai criar uma página de publicidade para divulgar uma clínica que oferece consultoria em hábitos para melhorar o IMC (Índice de Massa Corporal). Algumas alterações serão necessárias:
 1) Alterar documento HTML para língua portuguesa;
 2) Cálculo: imc = peso / (altura * altura);
 3) Lógica aplicada ao IMC: <br>
